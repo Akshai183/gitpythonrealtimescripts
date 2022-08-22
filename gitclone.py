@@ -1,4 +1,4 @@
-# make sure to install gitpython package
+# make sure to install gitpython package and before running this run initgit.sh shell script"
 
 import git
 print ("This is gitpython script file")
